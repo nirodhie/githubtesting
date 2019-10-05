@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testowanieGithuba", "testowanieGithuba\testowanieGithuba.csproj", "{63436F57-3E92-404B-B2E3-246659555688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63436F57-3E92-404B-B2E3-246659555688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63436F57-3E92-404B-B2E3-246659555688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63436F57-3E92-404B-B2E3-246659555688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63436F57-3E92-404B-B2E3-246659555688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEDA174-625F-48EE-8E29-F4AE0CE5C40D}
+	EndGlobalSection
+EndGlobal
